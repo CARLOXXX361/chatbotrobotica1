@@ -1,0 +1,4 @@
+- Abrir anaconda prompt
+- Ingresar "conda activate asistente"
+- Ir a la ruta del archivo con cd y la ruta "C:\Users\Robotica\Desktop\gradioproyect"
+- Ingresar el comando python tele.py
