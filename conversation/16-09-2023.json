@@ -1,0 +1,67 @@
+[
+    {
+        "Fecha": "11:20:49",
+        "Pregunta": " Hola.",
+        "Respuesta": "Hola, soy Jarbis. ¿En qué puedo ayudarte hoy?"
+    },
+    {
+        "Fecha": "11:23:38",
+        "Pregunta": " ¿Quién era mi imagen de un perro volando?",
+        "Respuesta": "Lo siento, parece que no puedo encontrar información específica sobre una imagen de un perro volando. ¿Hay algo más en lo que pueda ayudarte?"
+    },
+    {
+        "Fecha": "11:24:18",
+        "Pregunta": " Tenera una imagen de un perro volante.",
+        "Respuesta": "Lo siento, pero no puedo detectar una imagen de un perro volante en este momento. Parece que la imagen que estoy viendo es de un hombre con gafas y barba. ¿Hay algo más en lo que pueda ayudarte?"
+    },
+    {
+        "Fecha": "11:25:00",
+        "Pregunta": " Nira una imagen de un perro volando.",
+        "Respuesta": "Lo siento, pero no puedo detectar una imagen de un perro volando en este momento. Parece que la imagen que estoy viendo es una selfie de un hombre con gafas. ¿Hay algo más en lo que pueda ayudarte?"
+    },
+    {
+        "Fecha": "11:36:40",
+        "Pregunta": " genera una imagen de un perro volando.",
+        "Respuesta": "Agent stopped due to iteration limit or time limit."
+    },
+    {
+        "Fecha": "11:50:01",
+        "Pregunta": " ¿Ya está ahí?",
+        "Respuesta": "Agent stopped due to iteration limit or time limit."
+    },
+    {
+        "Fecha": "22:41:48",
+        "Pregunta": " Hola.",
+        "Respuesta": "Hola, soy Jarbis. ¿En qué puedo ayudarte hoy?"
+    },
+    {
+        "Fecha": "22:42:04",
+        "Pregunta": " ¿Cómo estás?",
+        "Respuesta": "¡Gracias por preguntar! Como soy un asistente virtual, no tengo emociones, pero estoy aquí para ayudarte en lo que necesites. ¿En qué puedo ayudarte hoy?"
+    },
+    {
+        "Fecha": "22:42:48",
+        "Pregunta": " www.mooji.org",
+        "Respuesta": "Pestaña Abierta."
+    },
+    {
+        "Fecha": "22:42:57",
+        "Pregunta": " Terminare",
+        "Respuesta": "Si tienes alguna otra pregunta o necesitas ayuda en el futuro, no dudes en volver. ¡Que tengas un buen día!"
+    },
+    {
+        "Fecha": "22:43:36",
+        "Pregunta": " Admi Baron",
+        "Respuesta": "Lamentablemente, no se encontró ningún resultado en Wikipedia para \"Admi Baron\". ¿Hay algo más en lo que pueda ayudarte?"
+    },
+    {
+        "Fecha": "22:43:59",
+        "Pregunta": " ¡Suscríbete!",
+        "Respuesta": "Pestaña Abierta."
+    },
+    {
+        "Fecha": "22:44:11",
+        "Pregunta": " www.mooji.org",
+        "Respuesta": "Pestaña Abierta."
+    }
+]

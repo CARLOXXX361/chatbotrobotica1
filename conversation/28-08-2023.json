@@ -1,0 +1,52 @@
+[
+    {
+        "Fecha": "00:32:25",
+        "Pregunta": "Okay robot",
+        "Respuesta": "¡Hola! ¿En qué puedo ayudarte hoy?"
+    },
+    {
+        "Fecha": "00:32:49",
+        "Pregunta": "Buscar la biografía de Donald Trump",
+        "Respuesta": "Donald John Trump es un empresario, personalidad televisiva y político conservador estadounidense. Nació el 14 de junio de 1946 en Nueva York. Trump ejerció como el 45.º presidente de los Estados Unidos de América desde el 20 de enero de 2017 hasta el 20 de enero de 2021.\n\nNacido y criado en el barrio de Queens en Nueva York, Trump obtuvo el título de bachiller en economía en la Wharton School de la Universidad de Pensilvania. Durante su carrera empresarial, Trump se destacó en el sector inmobiliario y construyó una marca reconocida a nivel mundial. También fue conocido por su participación en el programa de televisión \"The Apprentice\".\n\nEn el ámbito político, Trump se postuló como candidato presidencial por el Partido Republicano en las elecciones de 2016 y ganó la presidencia derrotando a la candidata demócrata Hillary Clinton. Durante su mandato, Trump implementó políticas conservadoras en áreas como la economía, la inmigración y la política exterior.\n\nSi deseas obtener más información sobre Donald Trump, te recomiendo visitar su página en Wikipedia."
+    },
+    {
+        "Fecha": "00:35:11",
+        "Pregunta": "qué baja",
+        "Respuesta": "Lo siento, parece que no puedo acceder a la información completa sobre la biografía de Donald Trump en este momento. Te recomendaría buscar en línea o consultar fuentes confiables para obtener más detalles sobre su vida y carrera."
+    },
+    {
+        "Fecha": "20:38:54",
+        "Pregunta": "Okay robot",
+        "Respuesta": "¡Hola! ¿En qué puedo ayudarte hoy?"
+    },
+    {
+        "Fecha": "20:39:32",
+        "Pregunta": "Qué hora es en Afganistán",
+        "Respuesta": "La hora actual en Afganistán es aproximadamente las 05:09."
+    },
+    {
+        "Fecha": "20:39:45",
+        "Pregunta": "y Qué clima hay ahí",
+        "Respuesta": "Actualmente en Kabul, Afganistán, la temperatura es de 14.7 grados Celsius. El clima está soleado y la humedad es del 45%."
+    },
+    {
+        "Fecha": "20:40:40",
+        "Pregunta": "terminar Sí gracias por ir",
+        "Respuesta": "¡De nada! Si tienes alguna otra pregunta en el futuro, no dudes en preguntar. ¡Que tengas un buen día!"
+    },
+    {
+        "Fecha": "21:19:47",
+        "Pregunta": "Okay robot",
+        "Respuesta": "¡Hola! ¿En qué puedo ayudarte hoy?"
+    },
+    {
+        "Fecha": "21:20:05",
+        "Pregunta": "Qué es un pulso de dirac era pulso o tiene otro nombre",
+        "Respuesta": "Un pulso de Dirac, también conocido como función delta de Dirac, es una función matemática que se utiliza en el campo de la teoría de señales y sistemas. Fue introducido por el físico británico Paul Dirac.\n\nEl pulso de Dirac se define como una función que tiene un valor infinito en un punto específico, llamado origen, y cero en todos los demás puntos. Matemáticamente, se representa como δ(t), donde t es la variable independiente.\n\nEste pulso es utilizado para representar señales ideales, como impulsos instantáneos de energía o corriente. Aunque el pulso de Dirac no es una función en el sentido estricto, se utiliza como una herramienta matemática para describir fenómenos físicos y resolver ecuaciones diferenciales.\n\nEs importante destacar que el pulso de Dirac es una función teórica idealizada y no puede existir en la práctica, ya que tendría una amplitud infinita en un punto. Sin embargo, se utiliza como una aproximación útil en el análisis de sistemas lineales e invariantes en el tiempo."
+    },
+    {
+        "Fecha": "21:26:34",
+        "Pregunta": "me puse",
+        "Respuesta": "¡No te preocupes! Estoy aquí para ayudarte. ¿En qué más puedo asistirte?"
+    }
+]

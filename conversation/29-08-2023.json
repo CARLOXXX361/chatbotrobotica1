@@ -1,0 +1,362 @@
+[
+    {
+        "Fecha": "19:29:28",
+        "Pregunta": "Okay robot",
+        "Respuesta": "¡Hola! ¿En qué puedo ayudarte hoy?"
+    },
+    {
+        "Fecha": "19:29:37",
+        "Pregunta": "jervis",
+        "Respuesta": "¡Hola! Soy Jervis, tu asistente virtual. ¿En qué puedo ayudarte hoy?"
+    },
+    {
+        "Fecha": "19:29:49",
+        "Pregunta": "yarbiss",
+        "Respuesta": "Disculpa, pero no estoy familiarizado con \"yarbiss\". ¿Hay algo más en lo que pueda ayudarte?"
+    },
+    {
+        "Fecha": "19:30:03",
+        "Pregunta": "yarbiss",
+        "Respuesta": "Lo siento, pero no estoy familiarizado con \"yarbiss\". ¿Hay algo más en lo que pueda ayudarte?"
+    },
+    {
+        "Fecha": "19:31:05",
+        "Pregunta": "yarbiss",
+        "Respuesta": "Lo siento, pero no puedo ayudarte con \"yarbiss\" ya que no tengo información sobre eso. ¿Hay algo más en lo que pueda asistirte?"
+    },
+    {
+        "Fecha": "19:31:28",
+        "Pregunta": "yarbiss",
+        "Respuesta": "Hola, ¿en qué puedo ayudarte hoy?"
+    },
+    {
+        "Fecha": "19:31:45",
+        "Pregunta": "qué tengo la mano",
+        "Respuesta": "Lo siento, pero como soy un asistente virtual, no tengo la capacidad de ver ni detectar objetos en tiempo real. Sin embargo, puedo ayudarte con información o realizar algunas tareas específicas. ¿Hay algo más en lo que pueda ayudarte?"
+    },
+    {
+        "Fecha": "19:32:20",
+        "Pregunta": "qué tengo en la mano",
+        "Respuesta": "Lo siento, pero como soy un asistente virtual, no tengo la capacidad de ver ni detectar objetos en tiempo real. No puedo decirte qué tienes en la mano. Si necesitas ayuda con otra cosa, estaré encantado de ayudarte."
+    },
+    {
+        "Fecha": "19:32:49",
+        "Pregunta": "yarbiss",
+        "Respuesta": "Hola, ¿en qué puedo ayudarte hoy?"
+    },
+    {
+        "Fecha": "19:33:00",
+        "Pregunta": "qué tengo en la mano",
+        "Respuesta": "Lo siento, pero como soy un asistente virtual, no tengo la capacidad de ver o detectar objetos en tiempo real. No puedo decirte qué tienes en la mano. ¿Hay algo más en lo que pueda ayudarte?"
+    },
+    {
+        "Fecha": "19:44:16",
+        "Pregunta": "yarbiss",
+        "Respuesta": "¡Hola! Soy un asistente amigable que puede ayudarte con diversas tareas. ¿En qué puedo ayudarte hoy?"
+    },
+    {
+        "Fecha": "19:44:44",
+        "Pregunta": "qué tengo en la mano",
+        "Respuesta": "Basado en la detección de imágenes, parece que tienes un teléfono celular en la mano. ¿Hay algo más en lo que pueda ayudarte?"
+    },
+    {
+        "Fecha": "19:45:09",
+        "Pregunta": "no es lo que tengo en la mano",
+        "Respuesta": "Basado en la detección de imágenes, parece que tienes una botella en la mano. ¿Hay algo más en lo que pueda ayudarte?"
+    },
+    {
+        "Fecha": "19:45:35",
+        "Pregunta": "qué tengo ahora nuevamente",
+        "Respuesta": "Basado en la detección de imágenes, parece que ahora tienes en la mano una botella de comida y estás usando auriculares. ¿Hay algo más en lo que pueda ayudarte?"
+    },
+    {
+        "Fecha": "19:46:04",
+        "Pregunta": "quiero que seas más específico con lo que tengo la mano",
+        "Respuesta": "Basado en la detección de imágenes, parece que tienes en la mano una botella de jugo de naranja. ¿Hay algo más en lo que pueda ayudarte?"
+    },
+    {
+        "Fecha": "19:46:34",
+        "Pregunta": "qué puedes ver ahora mismo que que hay lo que ves",
+        "Respuesta": "Basado en la detección de imágenes, puedo ver una fotografía de un hombre usando auriculares y una chaqueta marrón. ¿Hay algo más en lo que pueda ayudarte?"
+    },
+    {
+        "Fecha": "19:47:04",
+        "Pregunta": "quiero que busques página donde comprar esos productos y los abracen Google Chrome",
+        "Respuesta": "Pestaña Abierta."
+    },
+    {
+        "Fecha": "19:47:33",
+        "Pregunta": "quiero que busques links Dónde comprar esos productos que detectaste y los abras en Google Chrome los links para comprarlos",
+        "Respuesta": "Pestaña Abierta."
+    },
+    {
+        "Fecha": "19:47:52",
+        "Pregunta": "faltó el otro producto",
+        "Respuesta": "Pestaña Abierta."
+    },
+    {
+        "Fecha": "19:48:13",
+        "Pregunta": "pero quiero que ese producto sean audífonos Gamer no audífonos solamente",
+        "Respuesta": "Pestaña Abierta."
+    },
+    {
+        "Fecha": "19:49:42",
+        "Pregunta": "yarbiss",
+        "Respuesta": "¡Hola! Soy un asistente amigable que puede ayudarte con diversas tareas. ¿En qué puedo ayudarte hoy?"
+    },
+    {
+        "Fecha": "19:50:04",
+        "Pregunta": "qué tengo en la mano",
+        "Respuesta": "En la imagen que has proporcionado, veo a una persona sosteniendo una Nintendo Switch iluminada en la oscuridad."
+    },
+    {
+        "Fecha": "19:50:29",
+        "Pregunta": "quiero que busques links para comprar es objeto y Abre en Google Chrome",
+        "Respuesta": "Pestaña Abierta."
+    },
+    {
+        "Fecha": "19:50:43",
+        "Pregunta": "pero quiero que abras el link en una página de chile para comprarlo",
+        "Respuesta": "Pestaña Abierta."
+    },
+    {
+        "Fecha": "19:50:57",
+        "Pregunta": "la Nintendo switch por favor",
+        "Respuesta": "Pestaña Abierta."
+    },
+    {
+        "Fecha": "19:51:16",
+        "Pregunta": "Ahora quiero que veas que tengo en la mano",
+        "Respuesta": "En la imagen que has proporcionado, veo a una persona sosteniendo una botella de agua en la mano."
+    },
+    {
+        "Fecha": "19:51:43",
+        "Pregunta": "Quiero un link para comprar ese objeto en una página chilena y que lo abras en Google Chrome",
+        "Respuesta": "Pestaña Abierta."
+    },
+    {
+        "Fecha": "19:52:23",
+        "Pregunta": "genera mi una imagen de ese objeto que acaba de detectar",
+        "Respuesta": "Imagen Generada."
+    },
+    {
+        "Fecha": "19:52:56",
+        "Pregunta": "del anterior a o sea el después a ese que detecta",
+        "Respuesta": "Imagen Generada."
+    },
+    {
+        "Fecha": "19:53:23",
+        "Pregunta": "ahora detecta que tengo en la mano y envases erección Búscame el link para comprarlos y Ábrelo en Google Chrome el link por favor",
+        "Respuesta": "Pestaña Abierta."
+    },
+    {
+        "Fecha": "19:55:40",
+        "Pregunta": "era",
+        "Respuesta": "Agent stopped due to iteration limit or time limit."
+    },
+    {
+        "Fecha": "20:31:45",
+        "Pregunta": "yarbiss",
+        "Respuesta": "¡Hola! Soy un asistente amigable que puede ayudarte con diversas tareas. ¿En qué puedo ayudarte hoy?"
+    },
+    {
+        "Fecha": "20:32:09",
+        "Pregunta": "detecta que tengo en la mano",
+        "Respuesta": "Basado en la detección de la imagen, parece que tienes en la mano un teléfono celular. ¿Hay algo más en lo que pueda ayudarte?"
+    },
+    {
+        "Fecha": "20:32:39",
+        "Pregunta": "Busca en Amazon links para comprar es objeto y Ábrelo en Google Chrome",
+        "Respuesta": "Pestaña Abierta."
+    },
+    {
+        "Fecha": "20:32:53",
+        "Pregunta": "pero pero nada más son Búscalo y Ábrelo",
+        "Respuesta": "Pestaña Abierta."
+    },
+    {
+        "Fecha": "20:33:19",
+        "Pregunta": "Busca el link en Amazon de Amazon para comprar ese objeto por favor",
+        "Respuesta": "Aquí tienes algunos enlaces de Amazon donde puedes comprar teléfonos celulares:\n\n1. [Teléfonos Celulares: Celulares y Accesorios - Amazon.com](https://www.amazon.com/-/es/Celulares/b?ie=UTF8&node=7072561011)\n2. [SAMSUNG - Teléfonos Celulares: Celulares Y Accesorios - Amazon.com](https://www.amazon.com/-/es/SAMSUNG-Celulares-Accesorios/s?k=SAMSUNG)\n3. [Motorola - Teléfonos Celulares: Celulares Y Accesorios - Amazon.com](https://www.amazon.com/-/es/Motorola-Celulares-Accesorios/s?k=Motorola)\n\nPuedes hacer clic en los enlaces para ver los productos disponibles."
+    },
+    {
+        "Fecha": "20:35:02",
+        "Pregunta": "abre un link de esos en Google Chrome",
+        "Respuesta": "Pestaña Abierta."
+    },
+    {
+        "Fecha": "20:36:44",
+        "Pregunta": "yarbiss",
+        "Respuesta": "¡Hola! Soy un asistente amigable que puede ayudarte con diversas tareas. ¿En qué puedo ayudarte hoy?"
+    },
+    {
+        "Fecha": "20:37:21",
+        "Pregunta": "Busca foto de patas",
+        "Respuesta": "Imagen Generada"
+    },
+    {
+        "Fecha": "20:37:50",
+        "Pregunta": "Busca fotos de patas no hacerlas",
+        "Respuesta": "Imagen Generada"
+    },
+    {
+        "Fecha": "20:38:04",
+        "Pregunta": "Busca fotos de patas en Google",
+        "Respuesta": "Aquí tienes algunos resultados de búsqueda de fotos de patas:\n\n1. [677.200+ Patas Fotografías de stock, fotos e imágenes libres de derechos - iStock](https://www.istockphoto.com/es/fotos/patas)\n2. [12496394 imágenes de Pata - Imágenes, fotos y vectores de stock - Shutterstock](https://www.shutterstock.com/es/search/pata)\n3. [Fotos e imágenes de stock sin royalties de Patas - VistaCreate](https://www.vistacreate.com/es/search/patas)\n\nPuedes hacer clic en los enlaces para ver las fotos."
+    },
+    {
+        "Fecha": "20:39:01",
+        "Pregunta": "ya",
+        "Respuesta": "Entendido. Si necesitas ayuda con algo más, no dudes en preguntar. Estoy aquí para ayudarte."
+    },
+    {
+        "Fecha": "20:45:44",
+        "Pregunta": "yarbiss",
+        "Respuesta": "¡Hola! Soy un asistente amigable que puede ayudarte con diversas tareas. ¿En qué puedo ayudarte hoy?"
+    },
+    {
+        "Fecha": "21:12:55",
+        "Pregunta": "yarbiss",
+        "Respuesta": "¡Hola! Soy un asistente amigable que puede ayudarte con diversas tareas. ¿En qué puedo ayudarte hoy?"
+    },
+    {
+        "Fecha": "21:13:40",
+        "Pregunta": "yarbiss",
+        "Respuesta": "¡Hola! Soy un asistente amigable que puede ayudarte con diversas tareas. ¿En qué puedo ayudarte hoy?"
+    },
+    {
+        "Fecha": "21:14:04",
+        "Pregunta": "qué tengo en la mano",
+        "Respuesta": "Basado en la imagen que has proporcionado, parece que tienes una cámara en la mano. ¿Hay algo más en lo que pueda ayudarte?"
+    },
+    {
+        "Fecha": "21:14:24",
+        "Pregunta": "no no estás equivocado",
+        "Respuesta": "Mis disculpas por la confusión. Como soy un asistente de texto, no tengo la capacidad de ver imágenes o detectar objetos en tiempo real. Solo puedo proporcionar información y realizar ciertas tareas basadas en texto. Si necesitas ayuda con algo más, por favor házmelo saber."
+    },
+    {
+        "Fecha": "21:15:21",
+        "Pregunta": "vuelve a detectar lo que tengo en la mano",
+        "Respuesta": "Basado en la detección de objetos en la imagen proporcionada, parece que tienes en la mano un controlador de videojuegos. ¿Hay algo más en lo que pueda ayudarte?"
+    },
+    {
+        "Fecha": "21:16:05",
+        "Pregunta": "Busca es objeto en en Google algún link para comprarlo en chile y abre el Google Chrome en link para comprarle Chile",
+        "Respuesta": "Pestaña Abierta."
+    },
+    {
+        "Fecha": "21:16:26",
+        "Pregunta": "pero pero buscas el link abres el link de una página de una página específica no de Google una página de chile chilena para comprarlo",
+        "Respuesta": "Pestaña Abierta."
+    },
+    {
+        "Fecha": "21:17:31",
+        "Pregunta": "yarbiss",
+        "Respuesta": "¡Hola! Soy un asistente amigable que puede ayudarte con diversas tareas. ¿En qué puedo ayudarte hoy?"
+    },
+    {
+        "Fecha": "21:17:57",
+        "Pregunta": "qué tengo en la mano",
+        "Respuesta": "Basado en la detección de objetos en la imagen, parece que tienes en la mano un controlador de videojuegos."
+    },
+    {
+        "Fecha": "21:18:50",
+        "Pregunta": "yarbiss",
+        "Respuesta": "¡Hola! Soy un asistente amigable que puede ayudarte con diversas tareas. ¿En qué puedo ayudarte hoy?"
+    },
+    {
+        "Fecha": "21:20:19",
+        "Pregunta": "yarbiss",
+        "Respuesta": "¡Hola! Soy un asistente amigable que puede ayudarte con diversas tareas. ¿En qué puedo ayudarte hoy?"
+    },
+    {
+        "Fecha": "21:20:35",
+        "Pregunta": "qué tengo la mano",
+        "Respuesta": "Como asistente virtual, no tengo la capacidad de ver o detectar objetos en tiempo real. Sin embargo, puedo ayudarte con información o realizar algunas tareas específicas. ¿Hay algo en particular en lo que pueda ayudarte?"
+    },
+    {
+        "Fecha": "21:21:14",
+        "Pregunta": "qué tengo en la mano",
+        "Respuesta": "Según la detección de la imagen, parece que tienes una botella en la mano. Sin embargo, ten en cuenta que esta detección se basa en una imagen genérica y puede no ser precisa. Si tienes alguna otra pregunta o necesitas ayuda adicional, no dudes en decírmelo."
+    },
+    {
+        "Fecha": "21:23:13",
+        "Pregunta": "yarbiss",
+        "Respuesta": "¡Hola! Soy un asistente amigable que puede ayudarte con diversas tareas. ¿En qué puedo ayudarte hoy?"
+    },
+    {
+        "Fecha": "21:25:06",
+        "Pregunta": "yarbiss",
+        "Respuesta": "¡Hola! ¿En qué puedo ayudarte hoy?"
+    },
+    {
+        "Fecha": "21:25:19",
+        "Pregunta": "yarbiss",
+        "Respuesta": "¡Hola! ¿En qué puedo ayudarte hoy?"
+    },
+    {
+        "Fecha": "21:28:11",
+        "Pregunta": "Hola Cris Cris Cris Cris Cris no le está dando un play es lo que tenía que hacer",
+        "Respuesta": "¡Hola! ¿En qué puedo ayudarte hoy?"
+    },
+    {
+        "Fecha": "21:29:20",
+        "Pregunta": "yarbiss",
+        "Respuesta": "¡Hola! ¿En qué puedo ayudarte hoy?"
+    },
+    {
+        "Fecha": "21:31:43",
+        "Pregunta": "yarbiss",
+        "Respuesta": "¡Hola! ¿En qué puedo ayudarte hoy?"
+    },
+    {
+        "Fecha": "21:32:05",
+        "Pregunta": "qué tengo en la mano",
+        "Respuesta": "¡Genial! Parece que tienes un teléfono celular en la mano. ¿Hay algo en particular que te gustaría hacer con tu teléfono? Estoy aquí para ayudarte."
+    },
+    {
+        "Fecha": "21:32:44",
+        "Pregunta": "Busca un link es objeto para comprarlo en Google busca el link en Google para comprarlo y Ábrelo en el navegador",
+        "Respuesta": "¡Listo! He abierto un nuevo enlace en tu navegador. Puedes verificarlo allí. Si necesitas ayuda adicional, no dudes en preguntar."
+    },
+    {
+        "Fecha": "21:33:22",
+        "Pregunta": "Busca el link para el ojito que detectaste anteriormente para comprarlo en alguna página o y también abre el link en el navegador",
+        "Respuesta": "¡Pestaña Abierta! He encontrado un enlace en MercadoLibre donde puedes comprar ojitos. Puedes verificarlo en tu navegador. Si necesitas más ayuda, no dudes en preguntar."
+    },
+    {
+        "Fecha": "21:34:12",
+        "Pregunta": "detecta lo que tengo en la mano y Busca un link para comprarlo en el navegador para comprarlo en alguna página",
+        "Respuesta": "Agent stopped due to iteration limit or time limit."
+    },
+    {
+        "Fecha": "22:00:34",
+        "Pregunta": "yarbiss",
+        "Respuesta": "¡Hola! ¿En qué puedo ayudarte hoy?"
+    },
+    {
+        "Fecha": "22:00:55",
+        "Pregunta": "Quiero comprar una Nintendo switch Por favor búscame un link y Abre navegador para comprarlo",
+        "Respuesta": "Pestaña Abierta."
+    },
+    {
+        "Fecha": "22:01:26",
+        "Pregunta": "pero una un link chileno un link de chile viva Chile",
+        "Respuesta": "Pestaña Abierta."
+    },
+    {
+        "Fecha": "22:07:35",
+        "Pregunta": "yarbiss",
+        "Respuesta": "¡Hola! ¿En qué puedo ayudarte hoy?"
+    },
+    {
+        "Fecha": "22:08:09",
+        "Pregunta": "Cuál es la causante de la caída del pelo alopecia androgenética en los hombres que lo produce que hace que se porque se cae el pelo el hombre",
+        "Respuesta": "La caída del pelo en los hombres, específicamente la alopecia androgenética, tiene varias causas. Algunas de las principales son:\n\n1. Antecedentes familiares (herencia): La causa más común de la pérdida del cabello es un trastorno hereditario que ocurre con el envejecimiento.\n\n2. Cambios hormonales y afecciones médicas: Los cambios en los niveles hormonales, como el aumento de la hormona dihidrotestosterona (DHT), pueden contribuir a la caída del pelo. Además, ciertas condiciones médicas como la tiroides o el estrés pueden desencadenar la pérdida de cabello.\n\n3. Medicamentos y suplementos: Algunos medicamentos y suplementos pueden tener como efecto secundario la caída del pelo.\n\n4. Radioterapia en la cabeza: La radioterapia dirigida a la cabeza puede dañar los folículos pilosos y provocar la caída del pelo.\n\n5. Un suceso muy estresante: El estrés extremo o traumas emocionales pueden desencadenar la caída del pelo.\n\n6. Peinados y tratamientos: El uso frecuente de peinados que ejercen tensión en el cabello, como trenzas o colas de caballo apretadas, así como el uso excesivo de productos químicos o tratamientos agresivos, pueden dañar los folículos pilosos y causar la caída del pelo.\n\nEs importante destacar que cada caso puede ser diferente y es recomendable consultar a un especialista para obtener un diagnóstico preciso y determinar el mejor tratamiento."
+    },
+    {
+        "Fecha": "22:11:28",
+        "Pregunta": "yarbiss",
+        "Respuesta": "¡Hola! ¿En qué puedo ayudarte hoy?"
+    }
+]
