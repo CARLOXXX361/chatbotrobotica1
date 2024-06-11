@@ -45,7 +45,7 @@ wikipedia_tool = Tool(
     func= wikipedia.run,
     description="esta herramienta es perfecta cuando necesitas buscar información resumida en wikipedia sobre temas, países o personas,etc.")
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "apikey"
 
 llm = ChatOpenAI(
     temperature=0.7,
