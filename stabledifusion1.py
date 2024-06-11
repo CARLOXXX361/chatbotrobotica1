@@ -31,7 +31,7 @@ class StableDiffusion(BaseTool):
         telebot.TeleBot(bot_token).send_message(chat_id, f"🖼️*Creando Imagen.....*",parse_mode='Markdown')
         telebot.TeleBot(bot_token).send_message(chat_id, f"*Espere un Momento*",parse_mode='Markdown')
 
-        output = replicate.run("stability-ai/sdxl:2a865c9a94c9992b6689365b75db2d678d5022505ed3f63a5f53929a31a46947",
+        output = replicate.run(" TOKEN REPLICATE ",
         input={"prompt": f"{query}"})
 
         image = output[0]
