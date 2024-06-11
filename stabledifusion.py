@@ -32,7 +32,7 @@ class StableDiffusion(BaseTool):
         for chat_id in chat_ids:
             print(chat_id)
         
-        bot_token = '6397055999:AAHSlOzmdu9eTRcx-cN1sRWtN6nso6X2cmg'  
+        bot_token = 'TOKENTELEGRAMBOT'  
         bot = telebot.TeleBot(bot_token)
         telebot.TeleBot(bot_token).send_message(chat_id, f"🖼️*Creando Imagen.....*",parse_mode='Markdown')
         telebot.TeleBot(bot_token).send_message(chat_id, f"*Espere un Momento*",parse_mode='Markdown')
@@ -60,7 +60,7 @@ class StableDiffusion(BaseTool):
         headers = {
             "Accept": "application/json",
             "Content-Type": "application/json",
-            "Authorization": "Bearer sk-JY7n1eptQhzGjC7jPQoSXbhKxpGwcr08liUzO3gzDWk97DeO",
+            "Authorization": "Bearer TOKENSTABILITY",
         }
 
         response = requests.post(
