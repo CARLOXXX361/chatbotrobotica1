@@ -72,7 +72,7 @@ tools = ([Clock(),Weather(),Indicadores(),Google_Busqueda(),wikipedia_tool,Wolfr
 agent = OpenAIFunctionsAgent(llm=llm, tools=tools,prompt=prompt)
 agent_executor = AgentExecutor(agent=agent, tools=tools, memory=memory, verbose=True, max_iterations=7, handle_parsing_errors="ERROR", max_execution_time=40)
 
-bot_token = "6397055999:AAHSlOzmdu9eTRcx-cN1sRWtN6nso6X2cmg"
+bot_token = "BOTTOKEN-TELEGRAM"
 
 logging.basicConfig(level=logging.INFO)
 
